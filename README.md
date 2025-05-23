@@ -11,7 +11,7 @@ Inspired by Lemonade’s 2019 Giveback Page, this project recreates the scroll-d
 
 ---
 
-## � Objective
+## Objective
 
 Create a visually engaging, scroll-based web experience that highlights a problem-solution narrative using animated line art — mimicking the visual style and layout of Lemonade’s Giveback page.
 
@@ -32,7 +32,7 @@ Create a visually engaging, scroll-based web experience that highlights a proble
 
 ---
 
-## ⚙ Tech Stack
+##  Tech Stack
 
 | Layer      | Technology Used        |
 | ---------- | ---------------------- |
@@ -54,7 +54,7 @@ Create a visually engaging, scroll-based web experience that highlights a proble
 
 
 
-## 📁 File Structure
+##  File Structure
 
 ```
 ├── index.html        # Main HTML file
@@ -63,7 +63,7 @@ Create a visually engaging, scroll-based web experience that highlights a proble
 
 ---
 
-## ✅ Credits
+##  Credits
 
 Inspired by Lemonade's 2019 Giveback Page layout and storytelling style.
 
