@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+    background-color: #f7f7f7;
+    height: auto;
+    overflow-x: hidden;
+  }
+
+  .site-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: #ffffffcc;
+    padding: 1rem 2rem;
+    font-size: 2rem;
+    font-weight: bold;
+    z-index: 10;
+    text-align: center;
+  }
+  
+
+  .line-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+  }
+  
+  svg {
+    height: 100%;
+    width: 100%;
+    display: inline-block;
+  }
+  
+  /* Scrollable sections over SVG */
+  section {
+    height: 100vh;
+    display: grid;
+    place-content: center;
+    text-align: center;
+    font-size: 4em;
+    
+  }
+  
+  section.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  .one {
+    background-color: #ffffff;
+  }
+  
+  .two {
+    background-color: #f0f0f0;
+  }
+  
+  .two p {
+    font-size: 2rem;
+    color: #888;
+    margin-top: 2rem;
+  }
+  
