@@ -1,7 +1,7 @@
 # Sakha- Buddy to your study
 
 
-Inspired by Lemonade’s 2019 Giveback Page, this project recreates the scroll-driven storytelling experience with animated SVG paths and minimalist sections.
+Inspired by Lemonade’s 2019 Giveback Page, this project recreates the scroll-driven storytelling experience with animated SVG paths and minimalist sections. Web responsive, cross-browser compatibility.
 
 ---
 
